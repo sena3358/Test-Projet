@@ -22,10 +22,12 @@
     <dependencies>
         <!-- Framework annotation dependency -->
         <dependency>
-            <groupId>mg.framework</groupId>
-            <artifactId>framework-java</artifactId>
-            <version>1.0.0</version>
-        </dependency>
+    <groupId>com.monframework</groupId>
+    <artifactId>framework-java</artifactId>
+    <version>1.0.0</version>
+</dependency>
+
+        
         <!-- Jakarta Servlet API -->
         <dependency>
             <groupId>jakarta.servlet</groupId>
