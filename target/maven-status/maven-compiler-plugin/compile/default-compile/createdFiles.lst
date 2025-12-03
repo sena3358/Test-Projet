@@ -1,2 +1,11 @@
 mg\teste\Main.class
+<<<<<<< Updated upstream
 mg\teste\Teste.class
+=======
+mg\teste\TestUnController.class
+mg\teste\Tres.class
+mg\teste\TestDeuxController.class
+mg\teste\Teste.class
+mg\teste\Dos.class
+mg\teste\Uno.class
+>>>>>>> Stashed changes
